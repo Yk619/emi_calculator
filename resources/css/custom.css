@@ -1,0 +1,13 @@
+.table {
+  width: 100%;
+  text-align: center;
+}
+
+.labelStyle {
+  width:200px;
+  text-align: left;
+}
+
+.btn {
+  border: 2px;
+}
